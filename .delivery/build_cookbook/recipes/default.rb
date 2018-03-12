@@ -1,6 +1,6 @@
 #
-# Cookbook:: myiis
+# Cookbook:: build_cookbook
 # Recipe:: default
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.
-include_recipe 'myiis::server'
+include_recipe 'delivery-truck::default'
